@@ -646,7 +646,7 @@ task generate_count_config {
                     fol_multi.write(link_id + '\n')
                     fom_s2aux.write(link_id + '\t' + ','.join(link2aux[link_id]) + '\n')
                     no_aux = False
-				elif set(['rna', 'vdj']).issubset(multiomics[link_id]) or \
+                elif set(['rna', 'vdj']).issubset(multiomics[link_id]) or \
                      set(['rna', 'vdj_t']).issubset(multiomics[link_id]) or \
                      set(['rna', 'vdj_b']).issubset(multiomics[link_id]) or \
                      set(['rna', 'vdj_t_gd']).issubset(multiomics[link_id]):
