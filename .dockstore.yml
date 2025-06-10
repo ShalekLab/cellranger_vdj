@@ -8,9 +8,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -23,9 +23,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -38,9 +38,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -53,9 +53,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -68,9 +68,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -83,9 +83,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -98,9 +98,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -112,9 +112,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -126,9 +126,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -141,9 +141,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -156,9 +156,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -171,9 +171,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -186,9 +186,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -201,9 +201,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
@@ -216,9 +216,9 @@ workflows:
     testParameterFiles:
       - /test/dummy.json
     authors:
-      - name: Cumulus Team
-        email: cumulus-support@googlegroups.com
-        affiliation: Genentech
+      - name: Shalek Lab
+        email: mgodek@broadinstitute.org
+        affiliation: MIT
     filters:
       tags:
         - /.*/
